@@ -33,3 +33,7 @@ In the header section of home.html, we loaded styles.cssfile. CSS is to determin
 #### result.html
 we create a result.html file that will be rendered via the render_template('result.html', prediction=my_prediction) line return inside the predictfunction, which we defined in the app.py script to display the text that a user submitted via the text field.  
 
+python app.py  
+Now you could open a web browser and navigate to http://127.0.0.1:5000/  
+
+
