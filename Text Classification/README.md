@@ -32,3 +32,22 @@ https://towardsdatascience.com/multi-class-text-classification-model-comparison-
 https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4  
 
 
+## 9. Multi Label Text Classification with Scikit-Learn
+https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5
+
+
+## 10. Machine Learning for Text Classification Using SpaCy in Python
+https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
+
+
+## 11. Topic Modelling in Python with NLTK and Gensim
+https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21  
+
+
+## 12. Multi-Class Text Classification with PySpark
+https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
+
+
+## 13. Multi-Class Text Classification with Scikit-Learn
+https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
+
