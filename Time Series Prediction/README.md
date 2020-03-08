@@ -4,19 +4,21 @@ Time series analysis comprises methods for analyzing time series data in order t
 Time series are widely used for non-stationary data, like economic, weather, stock price, and retail sales in this post.  
 
 
-## 1. An End-to-End Project on Time Series Analysis and Forecasting with Python
+## An End-to-End Project on Time Series Analysis and Forecasting with Python
 https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b  
 
 
-## 2. Sales Forecasting with Price & Promotion effects 
+## Sales Forecasting with Price & Promotion effects 
 https://towardsdatascience.com/sales-forecasting-with-price-promotion-effects-b5d70207b128
 
 
-## 3. Time Series Analysis, Visualization & Forecasting with LSTM
+## Time Series Analysis, Visualization & Forecasting with LSTM
 https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba
 
 
-## 4. A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs) 
+## A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs) 
 https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f  
 
+## Time Series Analysis, Visualization & Forecasting with LSTM
+https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba  
 
