@@ -52,19 +52,15 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 
 ### Ref:
 > Sales Forecasting with Price & Promotion effects  
-
 https://towardsdatascience.com/sales-forecasting-with-price-promotion-effects-b5d70207b128
 
 > Time Series Analysis, Visualization & Forecasting with LSTM  
-
 https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba
 
 > An End-to-End Project on Time Series Analysis and Forecasting with Python  
-
 https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b  
 
 > A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs)  
-
 https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f  
 
 ================================================================================ 
