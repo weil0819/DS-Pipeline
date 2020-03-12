@@ -1,11 +1,25 @@
 # Pipeline for Text Classification  
 
+Summary for Text Classification problem  
 
-## Develop a NLP Model in Python & Deploy It with Flask, Step by Step 
+### Categories:
+1. Binary-Class 
+2. Multi-Class 
+3. Multi-Label 
+
+### Models: 
+
+
+### Libraries:
+
+
+
+# Ref:
+> Develop a NLP Model in Python & Deploy It with Flask, Step by Step 
 https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
 
 
-## Multi-Class Text Classification with Scikit-Learn
+> Multi-Class Text Classification with Scikit-Learn
 https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
 
 
