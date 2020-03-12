@@ -1,6 +1,6 @@
 # Pipeline for Text Classification  
 
-Summary for Text Classification problem  
+## Summary for Text Classification problem  
 
 ### Categories:
 1. Binary-Class 
@@ -16,12 +16,39 @@ Summary for Text Classification problem
 2. (Multinomial) Naive Bayes
 3. Linear Support Vector Machine
 4. Random Forest
+5. Keras
 
 ### Libraries:
+#### Math Libraries:
+import pandas as pd
+import numpy as np
+
+#### Plot Libraries:
+- `import seaborn as sns`
+- `import matplotlib.pyplot as plt`
+- `from IPython.display import display`
+- `import warnings`
+- `warnings.filterwarnings("ignore")`
+
+#### Feature Extraction/Selection:
+- `from sklearn.feature_selection import chi2`
+- `from sklearn.feature_extraction.text import CountVectorizer`
+- `from sklearn.feature_extraction.text import TfidfVectorizer`
+
+#### Model Selection:
+- `from sklearn.model_selection import train_test_split`
+- `from sklearn.model_selection import cross_val_score`
+- `from sklearn.naive_bayes import MultinomialNB`
+- `from sklearn.linear_model import LogisticRegression`
+- `from sklearn.ensemble import RandomForestClassifier`
+- `from sklearn.svm import LinearSVC`
+
+#### Metric Libraries:
+- `from sklearn.metrics import confusion_matrix`
+- `from sklearn.metrics import classification_report`
 
 
-
-# Ref:
+### Ref:
 > Develop a NLP Model in Python & Deploy It with Flask, Step by Step  
 
 https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
@@ -66,28 +93,12 @@ https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logi
 
 https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
 
-===============================================================================================  
+======================================================================================  
 
-Summary for Topic Modelling problem  
-
-### Categories:
-1. Binary-Class 
-2. Multi-Class 
-3. Multi-Label 
-
-### Text Representation:
-1. `tf-idf` vector
-2. `token counts` vector
-
-### Models: 
-1. Logistic Regression
-2. (Multinomial) Naive Bayes
-3. Linear Support Vector Machine
-4. Random Forest
-
-### Libraries:
+## Summary for Topic Modelling problem  
 
 
+### Ref:
 > Topic Modelling in Python with NLTK and Gensim
 https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21  
 
