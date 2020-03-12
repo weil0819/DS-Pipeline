@@ -20,8 +20,8 @@
 
 ### Libraries:
 #### Math Libraries:
-import pandas as pd
-import numpy as np
+- `import pandas as pd`
+- `import numpy as np`
 
 #### Plot Libraries:
 - `import seaborn as sns`
@@ -36,6 +36,7 @@ import numpy as np
 - `from sklearn.feature_extraction.text import TfidfVectorizer`
 
 #### Model Selection:
+- `from sklearn.pipeline import Pipeline`
 - `from sklearn.model_selection import train_test_split`
 - `from sklearn.model_selection import cross_val_score`
 - `from sklearn.naive_bayes import MultinomialNB`
@@ -46,6 +47,13 @@ import numpy as np
 #### Metric Libraries:
 - `from sklearn.metrics import confusion_matrix`
 - `from sklearn.metrics import classification_report`
+- `from sklearn.metrics import accuracy_score`
+
+#### NLP Libraries:
+- `import nltk`
+- `from nltk.corpus import stopwords`
+- `import spacy`
+- `from spacy.lang.en import English`
 
 
 ### Ref:
@@ -93,7 +101,7 @@ https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logi
 
 https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
 
-======================================================================================  
+================================================================================  
 
 ## Summary for Topic Modelling problem  
 
