@@ -1,10 +1,5 @@
 # Pipeline for Prediction 
 
-## Time Series Prediction
-Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.  
-
-Time series are widely used for non-stationary data, like economic, weather, stock price, and retail sales in this post.  
-
 ### Models: 
 1. Logistic Regression
 2. (Multinomial) Naive Bayes
@@ -16,7 +11,7 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 #### Math Libraries:
 - `import pandas as pd`
 - `import numpy as np`
-- `from math import sqrt`
+- `from math import radians, cos, sin, asin, sqrt`
 - `from statsmodels.distributions.empirical_distribution import ECDF`
 
 #### Plot Libraries:
@@ -35,10 +30,14 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 - `from sklearn.pipeline import Pipeline`
 - `from sklearn.model_selection import train_test_split`
 - `from sklearn.model_selection import cross_val_score`
-- `from sklearn.naive_bayes import MultinomialNB`
+- `from sklearn.model_selection import KFold`
+
+- `import lightgbm as lgb`
 - `from sklearn.linear_model import LogisticRegression`
-- `from sklearn.ensemble import RandomForestClassifier`
-- `from sklearn.svm import LinearSVC`
+- `from sklearn.ensemble import RandomForestRegressor`
+- `from sklearn.linear_model import LinearRegression`
+- `from sklearn.svm import LinearSVR`
+- `from keras.wrappers.scikit_learn import KerasRegressor`
 
 #### Metric Libraries:
 - `from sklearn.metrics import confusion_matrix`
@@ -49,6 +48,10 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 #### Time Series Libraries:
 - `from fbprophet import Prophet`
 
+## Time Series Prediction
+Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.  
+
+Time series are widely used for non-stationary data, like economic, weather, stock price, and retail sales in this post. 
 
 ### Ref:
 > Sales Forecasting with Price & Promotion effects  
