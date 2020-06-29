@@ -1,7 +1,4 @@
 # Pipeline for NLP  
-All the best NLP resources out there  
-
-![NLP-Roadmap](https://github.com/graykode/nlp-roadmap/blob/master/img/nlp.png)
 
 ## Problems
 1. Text Classification  
