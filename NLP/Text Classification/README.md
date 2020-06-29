@@ -1,4 +1,3 @@
-# Pipeline for Text Classification  
 
 ## Summary for Text Classification problem  
 
@@ -91,18 +90,5 @@ https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logi
 
 > Multi-Class Text Classification with PySpark  
 https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
-
-================================================================================  
-
-## Summary for Topic Modelling problem  
-
-
-### Ref:
-> Topic Modelling in Python with NLTK and Gensim  
-https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21  
-
-
-> When Topic Modeling is Part of the Text Pre-processing  
-https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514  
 
 
