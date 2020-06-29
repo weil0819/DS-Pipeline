@@ -4,11 +4,12 @@
 
 ## Recommender System
 
-## Text Classification
-
-## Object Detection
-
-## Image Classification
-
 ## Anomaly Detection
 
+## NLP
+### Text Classification
+### Topic Modelling
+
+## CV
+### Object Detection
+### Image Classification
