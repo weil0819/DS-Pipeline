@@ -1,10 +1,22 @@
-# ML-Pipeline
+# DS-Pipeline
 
-## Time Series Prediction
+## Data Analysis
+### SQL & Google BigQuery
+#### SQL
+#### Google BigQuer
 
-## Recommender System
+### Geospatial Analysis
 
-## Anomaly Detection
+### Data Visualization
+
+
+## Machine Learning
+### Time Series Prediction
+
+### Recommender System
+
+### Anomaly Detection
+
 
 ## NLP
 ### Text Classification

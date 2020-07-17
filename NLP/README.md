@@ -52,7 +52,7 @@ https://towardsdatascience.com/nlp-building-text-cleanup-and-preprocessing-pipel
 > [x] Zero To One For NLP  
 https://medium.com/modern-nlp/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c  
 
-> [] Productionizing NLP Models  
+> [x] Productionizing NLP Models  
 https://medium.com/modern-nlp/productionizing-nlp-models-9a2b8a0c7d14  
 
 > [] Transfer Learning In NLP  
